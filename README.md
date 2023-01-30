@@ -70,7 +70,7 @@ Sorting size 1000MB at a time
   
 1 Master(2 vCPU, 4 GB memory)  
 3 Slaves(10 vCPU, 40 GB memory)  
-Sorting size 100MB at a time
+Sorting size 100MB at a time  
 Master sends file to slaves network speed: 17.79MiB/s  
 Master receives sorted files from slaves network speed: 4.64MiB/s
 | Size | Multi-thread | 
@@ -83,7 +83,7 @@ Master receives sorted files from slaves network speed: 4.64MiB/s
   
 1 Master(2 vCPU, 4 GB memory)  
 5 Slaves(16 vCPU, 24 GB memory)  
-Sorting size 100MB at a time
+Sorting size 100MB at a time  
 Master sends file to slaves network speed: 17.79MiB/s  
 Master receives sorted files from slaves network speed: 4.64MiB/s
 | Size | Multi-thread | 
