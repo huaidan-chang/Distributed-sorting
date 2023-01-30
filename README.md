@@ -26,9 +26,13 @@ test
 ## Algorithm
 
 ### Phase 1: Splitting
-
+![plot](./image/phase1.jpg)
 ### Phase 2: Sorting
-
+![plot](./image/phase2.jpg)
 ### Phase 3: Merging
-
+![plot](./image/phase3.jpg)
 ## Result
+| Size | Single thread | Multi-thread | 
+| ------------- | ------------- | ------------- |
+| 1 GB  | 44.47 s | 12.165 s |
+| 10 GB | 366.02 s  | 147.780 s |
